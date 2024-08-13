@@ -4,7 +4,7 @@
 <h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=7000&pause=2000&color=C6538C&random=false&width=600&lines=Someone+who+wishes+to+keep+learning+everyday" alt="Typing SVG" /></a></h2>
 <img align="right" width="300" alt="code" src="https://cdn.dribbble.com/users/2789762/screenshots/8630894/media/583b209224b027954cb6e8b9901cb731.gif">
 
-![Profile views](https://komarev.com/ghpvc/?username=asmaa-elfatayry&label=Profile%20views&color=C6538C&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=AsmaaElfatayry&label=Profile%20views&color=C6538C&style=flat)
 
 <!--- 🔭 Currently interning at ITI on Professional Web Development and Business Intelligence track for 9 months
 - 💬 Ask me about HTML, CSS, JavaScript, SCSS
@@ -57,9 +57,9 @@
 ## GitHub Stats
 
 <div >
-    <img width="400" height="170" src="https://streak-stats.demolab.com/?user=asmaa-elfatayry&theme=radical" alt="asmaa-elfatayry" />
-  <img width="400"    src="https://github-readme-stats.vercel.app/api?username=asmaa-elfatayry&show_icons=true&locale=en&layout=compact&theme=radical" alt="asmaa-elfatayry" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmaa-elfatayry&layout=pie&show_icons=true&locale=en&theme=radical" alt="lang"/>
+    <img width="400" height="170" src="https://streak-stats.demolab.com/?user=AsmaaElfatayry&theme=radical" alt="asmaa-elfatayry" />
+  <img width="400"    src="https://github-readme-stats.vercel.app/api?username=AsmaaElfatayry&show_icons=true&locale=en&layout=compact&theme=radical" alt="asmaa-elfatayry" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsmaaElfatayry&layout=pie&show_icons=true&locale=en&theme=radical" alt="lang"/>
 </div>
 
 ---
@@ -67,19 +67,12 @@
 
 <div align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=asmaa-elfatayry&no-bg=true&margin-w=15&row=1&column=5&theme=darkhub" alt="trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=AsmaaElfatayry&no-bg=true&margin-w=15&row=1&column=5&theme=darkhub" alt="trophy">
   </a>
 </div>
 
 ---
 
-## Helpful Resources
 
-[![Notion GitHub Profile Readme](https://img.shields.io/badge/View%20My-Notion%20GitHub%20Profile%20Readme-blue?style=for-the-badge)](https://jumpy-wasabi-81c.notion.site/GitHub-Profile-Readme-f8db2585078a4cb898836916107aa5c9)
-
----
-
-
-<p style="font-size:12px">Finally, I would be grateful to anyone who gives me advice to develop my coding skills or any other professional advice 🙏.</p>
 
 <hr style="width:90%; height:2px; align-align:center">
