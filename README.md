@@ -2,7 +2,7 @@
 <h1 align="center"> Welcome to Asmaa's Profile!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
 <h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=7000&pause=2000&color=C6538C&random=false&width=600&lines=Someone+who+wishes+to+keep+learning+everyday" alt="Typing SVG" /></a></h2>
-<img align="right" width="300" alt="code" src="https://cdn.dribbble.com/users/2789762/screenshots/8630894/media/583b209224b027954cb6e8b9901cb731.gif">
+<!--<img align="right" width="300" alt="code" src="https://cdn.dribbble.com/users/2789762/screenshots/8630894/media/583b209224b027954cb6e8b9901cb731.gif">-->
 
 ![Profile views](https://komarev.com/ghpvc/?username=AsmaaElfatayry&label=Profile%20views&color=C6538C&style=flat)
 
